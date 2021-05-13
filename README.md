@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Anupam9830
-- 👀 I’m interested in learning new things everyday.
-- 🌱 I’m currently learning github.
-- 💞️ I’m looking to collaborate on github.
+- 👀 I’m interested in learning new things everyday
+- 🌱 I’m currently learning github
+- 💞️ I’m looking to collaborate on github
 - 📫 How to reach me - p.anupam.2000@gmail.com
 
 <!---
